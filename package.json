@@ -1,6 +1,23 @@
 {
-    "bugs": {
-      "url": "https://github.com/kamrulhasan2/helloproject/issues",
-      "email": "kamrulhasan20656@gmail.com"
-    }
-  }
+  "name": "helloproject",
+  "version": "1.0.0",
+  "description": "express ",
+  "main": "script.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/kamrulhasan2/helloproject.git"
+  },
+  "author": "kamrul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamrulhasan2/helloproject/issues"
+  },
+  "homepage": "https://github.com/kamrulhasan2/helloproject#readme"
+}
