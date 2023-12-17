@@ -11,5 +11,5 @@ app.get('/profile',(req,res) =>{
     res.send('Hello I am from profile')
 })
 app.listen(3000,()=>{
-    console.log("listen the post ")
+    console.log("listen the post 3000")
 })
